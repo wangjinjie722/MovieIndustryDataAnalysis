@@ -10,7 +10,6 @@ GDP Excel is uploaded, movies.csv can be download via link below.
 
 https://drive.google.com/file/d/165L0a0DkrnnpsQ9NeuKg8coPSdvMDq1o/view?usp=sharing 
 
-Data_process_and_visualization_1.py contains sources code, Data Visualization and Analysis_1.ipynb is jupyter notebook contains data
+Data_process_and_visualization_1.py contains sources code, Data Visualization and Analysis_1.ipynb is jupyter notebook contains data visualization and analysis.
 
-visualization and analysis.
 ### Don't run these code on Mac, use a computer with Windows system to run them.
